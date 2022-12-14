@@ -1,4 +1,4 @@
-# GrayCord
+# GrayCode
 
 Converts binary numbers to Gray code and vice versa.
 
